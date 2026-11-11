@@ -1,0 +1,7 @@
+numpy
+pandas
+scipy
+scikit-learn>=1.6
+matplotlib
+pymatgen
+autograd

@@ -1,0 +1,4 @@
+,R2,R2_sd,RMSE,Spearman
+Ridge regression,0.271,0.023,17.477,0.254
+Random forest,0.331,0.031,16.736,0.417
+Gradient boosting,0.262,0.025,17.58,0.395

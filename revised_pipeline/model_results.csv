@@ -1,0 +1,6 @@
+,R2,R2_sd,RMSE,MAE,Spearman
+Baseline (mean),-0.007,0.007,20.947,11.947,-0.063
+Ridge regression,0.178,0.012,18.927,11.125,0.24
+Random forest,0.242,0.019,18.173,10.03,0.386
+Gradient boosting,0.177,0.031,18.933,10.738,0.34
+GIN (graph neural network),0.152,0.042,19.22,11.403,0.273

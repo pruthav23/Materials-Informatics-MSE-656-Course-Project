@@ -1,0 +1,4 @@
+,R2,RMSE,Spearman
+"Grouped CV, no leakage (honest)",0.242,18.173,0.386
+"Random CV, no leakage",0.176,18.944,0.345
+"Grouped CV, with Sigma and Alpha",0.249,18.093,0.484
